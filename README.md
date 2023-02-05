@@ -2,7 +2,7 @@
 Data_Analytics_Project
 
 **Project 1 - EDA of Netflix Movies and Shows**
-The dataset used is from Kaggle [https://www.kaggle.com/datasets/shivamb/netflix-shows] consisting of contentr added to Netflix from 2008 to 2021.
+The dataset used is from Kaggle [https://www.kaggle.com/datasets/shivamb/netflix-shows] consisting of content added to Netflix from 2008 to 2021.
 Tasks carried out :
 1. Data Wrangling 
 2. Data Cleaning
@@ -21,5 +21,19 @@ EDA performed for:
 9. Common words for Movie titles and TV Show titles used for Netflix.
 
 
-**Project 2**
-- Youtube_Text_Data_Analysis
+**Project 2 - Youtube_Text_Data_Analysis**
+
+Tasks carried out :
+1. Data Wrangling 
+2. Data Cleaning
+3. EDA
+4. Drawing the conclusions.
+
+EDA performed for:
+1. Finding out polarity and subjectivity for comments on Youtube Videos.
+2. Representation of Sentiments.
+3. Emoji Analysis.
+4. Youtube videos for 10 different countries.
+5. Delving into catergories of videos, audience preferences.
+6. Analysis of Audience Engagement.
+7. Analyzing Trending Videos.
